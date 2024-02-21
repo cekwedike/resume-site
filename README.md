@@ -1,6 +1,6 @@
 # Chidiebere Ekwedike Personal Portfolio
 
-Welcome to my personal portfolio! I am **Chidiebere Shedrack Ekwedike**, a dedicated software engineering student specializing in machine learning. I am passionate about using technical expertise and innovative strategies to contribute to impactful solutions and positive societal change. This portfolio showcases my academic background, work experience, projects, skills, and contact information.
+Welcome to my personal resume! I am **Chidiebere Shedrack Ekwedike**, a dedicated software engineering student specializing in machine learning. I am passionate about using technical expertise and innovative strategies to contribute to impactful solutions and positive societal change. This resume showcases my academic background, work experience, projects, skills, and contact information.
 
 ## Features
 
