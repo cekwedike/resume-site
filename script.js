@@ -87,7 +87,9 @@ document.addEventListener('DOMContentLoaded', function () {
     // Scroll-to-top button
     const scrollToTopButton = document.createElement('button');
     scrollToTopButton.id = 'scroll-to-top';
-    scrollToTopButton.innerHTML = '<i class="fas fa-arrow-up"></i>';
+    const arrowUpIcon = document.createElement('i');
+    arrowUpIcon.className = 'fas fa-arrow-up';
+    scrollToTopButton.appendChild(arrowUpIcon);
     scrollToTopButton.style.position = 'fixed';
     scrollToTopButton.style.right = '20px';
     scrollToTopButton.style.bottom = '20px';
@@ -95,7 +97,7 @@ document.addEventListener('DOMContentLoaded', function () {
     scrollToTopButton.style.border = 'none';
     scrollToTopButton.style.borderRadius = '50%';
     scrollToTopButton.style.color = 'rgba(0, 0, 0, 0.8)';
-    scrollToTopButton.style.padding = '10px';
+    scrollToTopButton.style.padding = '10px 20px';
     scrollToTopButton.style.display = 'none';
     scrollToTopButton.addEventListener('click', smoothScrollToTop);
     document.body.appendChild(scrollToTopButton);
