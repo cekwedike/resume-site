@@ -16,8 +16,8 @@ Welcome to my personal resume! I am **Chidiebere Shedrack Ekwedike**, a dedicate
 - HTML
 - CSS
 - JavaScript
-- ScrollMagic
-- GSAP (GreenSock Animation Platform)
+- Python
+- Java
 
 ## Usage
 
