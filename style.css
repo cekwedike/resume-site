@@ -194,3 +194,10 @@ p, li {
     transform: translateY(0);
     transition: all 5s ease-out;
 }
+h2 {
+    background-color: #7851a9; /* Dark purple */
+    color: white;
+    border-radius: 5px;
+    padding: 10px; /* Add some padding for better readability */
+    margin: 10px 0; /* Add some margin to separate h2 elements */
+  }
